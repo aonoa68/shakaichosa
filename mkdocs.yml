@@ -1,0 +1,66 @@
+site_name: 社会調査入門
+site_description: 北星学園大学「社会調査入門」2026年度後期 授業資料
+site_author: 小野原 彩香
+site_url: https://aonoa68.github.io/shakaichosa/
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: ダークモードに切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: ライトモードに切り替え
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - ja
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - ホーム: index.md
+  - 開講日程: schedule.md
+  - 各回の資料:
+      - 第1回 オリエンテーション: week01.md
+      - 第2回 社会調査の歴史: week02.md
+      - 第3回 社会調査のステップと倫理: week03.md
+      - 第4回 社会調査の目的と分類: week04.md
+      - 第5回 公的統計の利用: week05.md
+      - 第6回 市場調査・マーケティングリサーチ: week06.md
+      - 第7回 先行研究の調査: week07.md
+      - 第8回 資料・文献調査: week08.md
+      - 第9回 質的研究と量的研究: week09.md
+      - 第10回 全数調査と標本調査: week10.md
+      - 第11回 アンケート調査の方法と調査例: week11.md
+      - 第12回 インタビュー調査の方法と調査例: week12.md
+      - 第13回 観察法の方法と調査事例: week13.md
+      - 第14回 エスノグラフィの方法と調査事例: week14.md
+
+copyright: © 2026 小野原 彩香 — 北星学園大学 社会調査入門
