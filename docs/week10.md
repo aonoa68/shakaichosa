@@ -4,7 +4,8 @@
 
 !!! info "今日のリンク"
     - 📊 [スライドを開く](slides/10.html)
-    - 📝 今日の課題は**このページの末尾**にあります。提出は Moodle へ
+    - [📝 課題を提出する（Moodle・第10回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990659)
+    - 課題の本文は**このページの末尾**にあります
     - 📄 スライドPDFは Moodle に掲載します
 
 ---
