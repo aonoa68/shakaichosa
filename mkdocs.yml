@@ -37,6 +37,8 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
@@ -64,3 +66,7 @@ nav:
       - 第14回 エスノグラフィの方法と調査事例: week14.md
 
 copyright: © 2026 小野原 彩香 — 北星学園大学 社会調査入門
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
