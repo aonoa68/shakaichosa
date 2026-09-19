@@ -1272,6 +1272,7 @@
 <li>無作為抽出の4種類と有意抽出の違いを理解する</li>
 <li>標本誤差と選択バイアスの違いを説明できる</li>
 <li>実際の調査の標本設計を読み、その妥当性を評価できる</li>
+<li><strong>発展</strong>：比率の標本誤差 <span class="arithmatex">\(\sqrt{p(1-p)/n}\)</span> と、必要な標本数が母集団の大きさでほぼ決まらないことを、自分で導ける</li>
 </ol>
 <hr />
 <h2 id="_3">要点<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
@@ -1357,7 +1358,7 @@
 </tbody>
 </table>
 <h3 id="_7">標本誤差 ―― 必要な数は母集団の大きさで決まらない<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
-<p><strong>標本誤差</strong>は、標本の特性と母集団の特性の間に生じるランダムな誤差である。標本が大きいほど小さくなる（$SE = \sigma / \sqrt{n}$）が、全数調査でない限りゼロにはならない。</p>
+<p><strong>標本誤差</strong>は、標本の特性と母集団の特性の間に生じるランダムな誤差である。標本が大きいほど小さくなる（<span class="arithmatex">\(SE = \sigma / \sqrt{n}\)</span>）が、全数調査でない限りゼロにはならない。</p>
 <table>
 <thead>
 <tr>
@@ -1385,6 +1386,110 @@
 </tbody>
 </table>
 <p><strong>必要な標本数は「母集団の大きさ」ではなく「必要な精度」で決まる。</strong> テレビ視聴率（ビデオリサーチ社）が約2,700世帯で日本全体を推計できるのはこのためである。</p>
+<details class="note" open="open">
+<summary>導出①：± 9.8% はどこから来るのか（比率の標本誤差）</summary>
+<p>「賛成」の割合を知りたいとする。一人の回答を、<strong>賛成なら 1、反対なら 0</strong> の数値と見る。すると「賛成の割合」は、この 0 と 1 の<strong>平均</strong>にほかならない。標本比率 <span class="arithmatex">\(\hat{p}\)</span> は、実は標本平均なのである。</p>
+<p>まず一人分のばらつきを求める。賛成の確率を <span class="arithmatex">\(p\)</span> とすると、</p>
+<div class="arithmatex">\[ E[X] = 1 \cdot p + 0 \cdot (1-p) = p \]</div>
+<p>0 と 1 は二乗しても値が変わらない（<span class="arithmatex">\(0^2 = 0\)</span>、<span class="arithmatex">\(1^2 = 1\)</span>）。だから二乗の期待値も同じく <span class="arithmatex">\(p\)</span> になる。したがって</p>
+<div class="arithmatex">\[ V[X] = E[X^2] - (E[X])^2 = p - p^2 = p(1-p) \]</div>
+<p>あとは標本平均のばらつきの式 <span class="arithmatex">\(V[\bar{X}] = \sigma^2/n\)</span> を使えばよい（統計学Ⅰ 第6回で導いている）。<span class="arithmatex">\(\sigma^2 = p(1-p)\)</span> を入れて</p>
+<div class="arithmatex">\[ \mathrm{SE}(\hat{p}) = \sqrt{\frac{p(1-p)}{n}} \]</div>
+<p>ここで困ったことが起きる。<strong>誤差を計算するのに、知りたいはずの <span class="arithmatex">\(p\)</span> が要る。</strong> そこで「最悪でもこれ以下」という言い方をする。<span class="arithmatex">\(p(1-p)\)</span> は <span class="arithmatex">\(p = 0.5\)</span> のとき最大の 0.25 になるからである。</p>
+<table>
+<thead>
+<tr>
+<th><span class="arithmatex">\(p\)</span></th>
+<th>0.1</th>
+<th>0.3</th>
+<th>0.5</th>
+<th>0.7</th>
+<th>0.9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="arithmatex">\(p(1-p)\)</span></td>
+<td>0.09</td>
+<td>0.21</td>
+<td><strong>0.25</strong></td>
+<td>0.21</td>
+<td>0.09</td>
+</tr>
+</tbody>
+</table>
+<p>最大値を使えば、<span class="arithmatex">\(p\)</span> を知らないまま上限が言える。95% の幅は <span class="arithmatex">\(\pm 1.96 \times \mathrm{SE}\)</span> だから</p>
+<div class="arithmatex">\[ \pm\, 1.96 \sqrt{\frac{0.25}{n}} \;=\; \pm\, \frac{0.98}{\sqrt{n}} \]</div>
+<p><strong>数値で確かめる</strong>：この式に入れると、n=100 で ±9.80%、n=400 で ±4.90%、n=1,000 で ±3.10%、n=2,500 で ±1.96%。上の表と一致する（表の「± 2.0%」は 1.96% を丸めた値）。</p>
+<p><span class="arithmatex">\(\sqrt{n}\)</span> が分母にあるので、<strong>誤差を半分にするには標本を4倍にしなければならない</strong>。表で 100 → 400 のときに 9.8% が 4.9% になっているのがそれである。調査費用は人数にほぼ比例するから、精度を2倍にする費用は4倍になる。標本設計とは、この釣り合いを決める作業である。</p>
+<p><strong>使った数学</strong>：期待値と分散の定義、二乗の展開、標本平均のばらつきの式（統計学Ⅰ 第6回）。</p>
+</details>
+<details class="note" open="open">
+<summary>導出②：なぜ必要な数は、母集団の大きさで決まらないのか</summary>
+<p>導出①で出た式をもう一度見てほしい。</p>
+<div class="arithmatex">\[ \mathrm{SE}(\hat{p}) = \sqrt{\frac{p(1-p)}{n}} \]</div>
+<p><strong>母集団の大きさ <span class="arithmatex">\(N\)</span> が、どこにも入っていない。</strong> 1億人だろうと500万人だろうと、式は <span class="arithmatex">\(n\)</span> しか見ていない。これがこの節の見出しの正体である。</p>
+<p>ただし厳密には、これは近似である。同じ人を二度選ばない取り方（非復元抽出）のとき、正しい式には<strong>有限母集団修正</strong>という係数がつく。</p>
+<div class="arithmatex">\[ \mathrm{SE}(\hat{p}) = \sqrt{\frac{p(1-p)}{n}} \times \sqrt{\frac{N-n}{N-1}} \]</div>
+<p>そこで、この係数が <span class="arithmatex">\(N\)</span> の大きさでどう動くかを見る。<span class="arithmatex">\(n = 1{,}000\)</span> に固定して計算すると：</p>
+<table>
+<thead>
+<tr>
+<th>母集団 <span class="arithmatex">\(N\)</span></th>
+<th>修正係数</th>
+<th>誤差（<span class="arithmatex">\(p=0.5\)</span>）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1万</td>
+<td>0.9487</td>
+<td>± 2.94%</td>
+</tr>
+<tr>
+<td>10万</td>
+<td>0.9950</td>
+<td>± 3.08%</td>
+</tr>
+<tr>
+<td>100万</td>
+<td>0.9995</td>
+<td>± 3.10%</td>
+</tr>
+<tr>
+<td>500万（北海道の人口規模）</td>
+<td>0.9999</td>
+<td>± 3.10%</td>
+</tr>
+<tr>
+<td>1億（有権者の規模）</td>
+<td>1.0000</td>
+<td>± 3.10%</td>
+</tr>
+</tbody>
+</table>
+<p>100万を超えたあたりから、係数は 1 と区別がつかなくなる。<strong>北海道民500万人について調べるのも、日本人1億人について調べるのも、必要な標本数は同じ</strong>ということである。</p>
+<p>直感には反する。1億人が相手なら1万人くらい要りそうに思える。だが母集団が大きいほど抽出率は下がる一方で、精度は落ちない。<span class="arithmatex">\(N = 1\)</span> 億で <span class="arithmatex">\(n = 1{,}000\)</span> なら抽出率は 0.001% にすぎないのに、誤差は500万人のときと変わらない。<strong>よくかき混ぜた鍋の味見と同じで、鍋が大きくても、味見の量を増やす必要はない。</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">「よくかき混ぜてあれば」が効いている</p>
+<p>この式が成り立つのは<strong>無作為抽出のとき</strong>だけである。選ばれ方に偏りがあると、<span class="arithmatex">\(n\)</span> をいくら増やしてもこの式は当てはまらない。次の節の Literary Digest は230万人を集めながら外した。<span class="arithmatex">\(n\)</span> が大きいことは、偏りを一切埋め合わせない。<strong>この導出が保証しているのは「数が足りていること」だけで、「選び方が正しいこと」は何も保証していない。</strong></p>
+</div>
+<p><strong>数値で確かめる</strong>：上の表の修正係数と誤差は、すべて <span class="arithmatex">\(\sqrt{(N-n)/(N-1)}\)</span> に直接入れて計算した値である。</p>
+<p><strong>使った数学</strong>：平方根の大小、割り算の極限（<span class="arithmatex">\(N\)</span> が大きいとき <span class="arithmatex">\((N-n)/(N-1) \to 1\)</span>）。</p>
+</details>
+<details class="note" open="open">
+<summary>導出③：「± 3.1%」は、何についての 95% なのか</summary>
+<p>支持率の報道でよく見る「誤差 ±3ポイント」には、読み方の落とし穴がある。</p>
+<p>「支持率 42%、誤差 ±3.1%」と出たとき、これは<strong>「真の支持率が 38.9% から 45.1% の間にある確率が 95%」という意味ではない。</strong> 真の支持率は、いま現に一つの値に決まっている。決まっている値が決まっている区間に入るかどうかは、入っているか外れているかのどちらかでしかない。</p>
+<p>ランダムなのは<strong>区間のほう</strong>である。調査をやり直せば、選ばれる人が変わり、出てくる区間も動く。だから正しい読み方はこうなる。</p>
+<blockquote>
+<p>この手続きで区間を作ることを何度も繰り返すと、<strong>作った区間の約95%が真の値を含む</strong>。</p>
+</blockquote>
+<p>95% とは、手続きの当たり率のことである。いま手元にある1本が当たっているか外しているかは、分からない。</p>
+<p>この区別は統計学Ⅰ 第7回で、式の上から導いている。不等式を真の値について解くと、動いているのは区間の両端だけで、真の値のほうは動いていないことが、式の形としてそのまま見える。</p>
+<p>調査報告を読むときは、<strong>「95%」が区間の作り方についての性質であって、目の前の数字についての性質ではない</strong>ことを押さえておくとよい。</p>
+<p><strong>使った数学</strong>：確率が何に対して定義されているかの区別（統計学Ⅰ 第7回 導出③）。</p>
+</details>
 <h3 id="_8">選択バイアス ―― 大きさより、選ばれ方<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
 <p><strong>選択バイアス</strong>は、標本の選ばれ方に<strong>系統的な偏り</strong>が生じることをいう。インターネット調査では、ネットを使わない層（高齢者・低所得層など）が除外され、回答意欲の高い人が過剰に集まる。</p>
 <div class="admonition danger">
@@ -1645,6 +1750,10 @@
     
     
       <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>
