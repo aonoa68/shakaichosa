@@ -33,7 +33,7 @@
 
 ### 前史 ―― 「統計」は国家の道具として生まれた
 
-「統計」（statistics）という語は、国家や状態を意味するラテン語 *status* と語源的に関係し、近代ヨーロッパで「**国家の状態についての知識**」を指す語（ドイツ語の *Statistik* など）を経て成立した。*status* から英語の statistics が直接生まれたわけではない。17〜18世紀、国家が人口・土地・産業を把握するために発展した。William Petty（1623–1687）の**政治算術**（political arithmetic）は、イングランドの人口・富・土地を数量的に捉えようとした試みだった。
+「統計」（statistics）という語は、国家や状態を意味するラテン語 *status* と語源的に関係し、近代ヨーロッパで「**国家の状態についての知識**」を指す語（ドイツ語の *Statistik* など）を経て成立した。*status* から英語の statistics が直接生まれたわけではない。17〜18世紀、国家が人口・土地・産業を把握するために発展した。William Petty（1623–1687）の**政治算術**（political arithmetic）は、イングランドの人口・富・土地を数量的に捉えようとした試みだった（[『政治算術』1690年初版を読む](https://archive.org/details/politicalarithme00pettuoft)）。
 
 !!! example "原典を見る ―― Petty『政治算術』"
     [*Political Arithmetick*（1690年初版・全158ページ）](https://archive.org/details/politicalarithme00pettuoft)
@@ -51,6 +51,7 @@
 産業革命による都市への人口集中で、劣悪な労働環境・スラム・貧困・犯罪が深刻化した。問われたのは「**貧困の実態はどれほど深刻なのか**」であり、感情論ではなく事実に基づく記述が求められた。
 
 **Charles Booth（1840–1916）** ―― *Life and Labour of the People in London*（1889〜1903、全17巻）
+【[貧困地図を開く](https://booth.lse.ac.uk/map)／[LSEのアーカイブ全体](https://booth.lse.ac.uk/)】
 
 - ロンドン全域を対象に、**約400万人規模の都市**の生活状態を体系的に把握した
 - 学校出席記録（School Board Visitors の記録）・視察員への聞き取り・現地観察という**複数の資料を組み合わせた**。400万人を一人ずつ直接聞いたのではない。調査の初期は世帯単位で記録したが、時間の制約から途中で**通り（street）単位**の記録に切り替えている
@@ -69,6 +70,7 @@
     見てほしいのは、あの地図が**この紙束から作られた**という一点だけ。
 
 **Seebohm Rowntree（1871–1954）** ―― *Poverty: A Study of Town Life*（1901）
+【[原著全492ページを読む](https://archive.org/details/b28063661)】
 
 - ヨーク市の**労働者階級世帯を、ほぼ悉皆的に**（約1万1000世帯）直接調査した。ヨーク市の全世帯を調べたのではない
 - **一次貧困**と**二次貧困**を区別した
@@ -88,6 +90,7 @@
 ### 20世紀アメリカ ―― シカゴ学派とフィールドワーク
 
 19世紀末からの大量移民でシカゴは1900年に人口170万人を超えた。Robert E. Park（1864–1944）と Ernest Burgess（1886–1966）は都市を生態学的に分析し、**同心円地帯理論**を提示する。シカゴという都市そのものを「**社会的な実験室**」のように捉え、移民コミュニティや貧困地区への直接観察・インタビューが重視された。シカゴ学派では、都市に入り込んで**観察・聞き取り・生活史**を収集する**社会学的なフィールドワーク**が、社会学の重要な方法として発展した（→ 第13回・第14回）。
+【[Park「The City」1915](https://archive.org/details/TheCitySuggestionsForTheInvestigationOfHumanBehaviorInTheCity)／[Hull-House Maps and Papers 1895](https://archive.org/details/hullhousemapspap00newy)／[The Negro in Chicago 1922](https://archive.org/details/negroinchicagost00chic)】
 
 !!! warning "「参与観察はシカゴ学派が作った」ではない"
     **参与観察そのものがシカゴ学派で体系化されたわけではない。**
@@ -104,11 +107,11 @@
 
 | 時期 | 出来事 |
 |---|---|
-| 明治期 | 国家による統計調査の整備。農商務省の社会調査 |
-| 明治〜大正 | **横山源之助**『日本之下層社会』―― 実地に足を運んだ調査 |
+| 明治期 | 国家による統計調査の整備。農商務省の社会調査（[『職工事情』1903年・書誌情報](https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=%E8%81%B7%E5%B7%A5%E4%BA%8B%E6%83%85)。全文はネットで公開されていないので、読むなら復刻版か図書館で） |
+| 明治〜大正 | **横山源之助**『日本之下層社会』―― 実地に足を運んだ調査（[全文を読む（1899年・227コマ）](https://dl.ndl.go.jp/pid/798849)） |
 | 戦後 | 統計制度の整備・制度化 |
-| 2007年 | **統計法の全面改正**（2009年4月に全面施行） |
-| 現在 | **e-Stat** による政府統計のオープンデータ化（→ 第5回） |
+| 2007年 | **統計法の全面改正**（2009年4月に全面施行）（[条文を読む（e-Gov法令検索）](https://laws.e-gov.go.jp/law/419AC0000000053)） |
+| 現在 | **[e-Stat](https://www.e-stat.go.jp/)** による政府統計のオープンデータ化（→ 第5回） |
 
 !!! example "原典を見る ―― 横山源之助『日本之下層社会』"
     [国立国会図書館デジタルコレクション（1899年・全227コマ）](https://dl.ndl.go.jp/pid/798849)
@@ -145,7 +148,15 @@ Web アンケートは**聞き方の問題**、ビッグデータは**データ�
 
 **ヒント**
 
-- 今日紹介した事例（Booth、Rowntree、横山源之助など）から1つ選んでよい
+- 今日紹介した事例から1つ選んでよい。**原典へのリンクは本文の各事例に付けてあります**
+    - [Petty『政治算術』1690](https://archive.org/details/politicalarithme00pettuoft)
+    - [Booth の貧困地図（LSEアーカイブ）](https://booth.lse.ac.uk/map)
+    - [Rowntree『Poverty』1901](https://archive.org/details/b28063661)
+    - [Hull-House Maps and Papers 1895](https://archive.org/details/hullhousemapspap00newy)
+    - [The Negro in Chicago 1922](https://archive.org/details/negroinchicagost00chic)
+    - [Park「The City」1915](https://archive.org/details/TheCitySuggestionsForTheInvestigationOfHumanBehaviorInTheCity)
+    - [横山源之助『日本之下層社会』1899](https://dl.ndl.go.jp/pid/798849)
+    - [統計法（e-Gov法令検索）](https://laws.e-gov.go.jp/law/419AC0000000053)／[e-Stat](https://www.e-stat.go.jp/)
 - 自分で調べた別の事例でも可（参考文献リストを参照）
 - **①背景・②方法の特徴・③意義**の3点がそろっているかを見ます。この順に書くとまとまります
 - 参考にした文献・URLがあれば末尾に記載すること
@@ -219,24 +230,24 @@ Web アンケートは**聞き方の問題**、ビッグデータは**データ�
 
 | サービス名 | URL | 内容 |
 |------------|-----|------|
-| e-Stat（政府統計の総合窓口） | https://www.e-stat.go.jp/ | 国勢調査・各種政府統計データのポータルサイト |
-| 総務省統計局 | https://www.stat.go.jp/ | 国勢調査・人口統計・統計法の解説 |
-| 国立国会図書館デジタルコレクション | https://dl.ndl.go.jp/ | 横山源之助『日本の下層社会』等の原典デジタル公開 |
+| e-Stat（政府統計の総合窓口） | [https://www.e-stat.go.jp/](https://www.e-stat.go.jp/) | 国勢調査・各種政府統計データのポータルサイト |
+| 総務省統計局 | [https://www.stat.go.jp/](https://www.stat.go.jp/) | 国勢調査・人口統計・統計法の解説 |
+| 国立国会図書館デジタルコレクション | [https://dl.ndl.go.jp/](https://dl.ndl.go.jp/) | 横山源之助『日本の下層社会』等の原典デジタル公開 |
 
 ##### 学術・教育リソース
 
 | サービス名 | URL | 内容 |
 |------------|-----|------|
-| J-STAGE | https://www.jstage.jst.go.jp/ | 国内学術論文の無料検索・閲覧（社会調査関連論文多数） |
-| CiNii Research | https://cir.nii.ac.jp/ | 国内文献・データの統合検索 |
-| SSJデータアーカイブ（SSJDA） | https://csrda.iss.u-tokyo.ac.jp/ssjda/ | 社会調査の二次分析用データセット提供 |
+| J-STAGE | [https://www.jstage.jst.go.jp/](https://www.jstage.jst.go.jp/) | 国内学術論文の無料検索・閲覧（社会調査関連論文多数） |
+| CiNii Research | [https://cir.nii.ac.jp/](https://cir.nii.ac.jp/) | 国内文献・データの統合検索 |
+| SSJデータアーカイブ（SSJDA） | [https://csrda.iss.u-tokyo.ac.jp/ssjda/](https://csrda.iss.u-tokyo.ac.jp/ssjda/) | 社会調査の二次分析用データセット提供 |
 
 ##### 歴史的資料
 
 | サービス名 | URL | 内容 |
 |------------|-----|------|
-| Charles Booth Online Archive | https://booth.lse.ac.uk/ | Boothの貧困地図・調査資料のデジタルアーカイブ（英語） |
-| 統計局ホームページ（統計の歴史） | https://www.stat.go.jp/data/nenkan/index.html | 日本の統計の歴史的変遷 |
+| Charles Booth Online Archive | [https://booth.lse.ac.uk/](https://booth.lse.ac.uk/) | Boothの貧困地図・調査資料のデジタルアーカイブ（英語） |
+| 統計局ホームページ（統計の歴史） | [https://www.stat.go.jp/data/nenkan/index.html](https://www.stat.go.jp/data/nenkan/index.html) | 日本の統計の歴史的変遷 |
 
 ---
 

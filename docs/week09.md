@@ -182,10 +182,10 @@ Creswell, J. W. & Plano Clark, V. L. (2018).
 
 | 名称 | URL | 概要 |
 |---|---|---|
-| J-STAGE | https://www.jstage.jst.go.jp/ | 国内学術論文の無料検索・閲覧。量的・質的の実際の研究論文を探せる |
-| CiNii Research | https://cir.nii.ac.jp/ | 国内論文・図書・研究データ検索。テーマ別に先行研究を確認できる |
-| 日本質的心理学会 | https://www.qualitativepsychology.jp/ | 質的研究の学会サイト。機関誌・研究資源へのリンクあり |
-| 社会調査協会 | https://jasr.or.jp/ | 量的社会調査を中心とした学会。倫理規定・公開論文が参照できる |
+| J-STAGE | [https://www.jstage.jst.go.jp/](https://www.jstage.jst.go.jp/) | 国内学術論文の無料検索・閲覧。量的・質的の実際の研究論文を探せる |
+| CiNii Research | [https://cir.nii.ac.jp/](https://cir.nii.ac.jp/) | 国内論文・図書・研究データ検索。テーマ別に先行研究を確認できる |
+| 日本質的心理学会 | （公式サイトのURLが変わった可能性があるため、学会名で検索してください） | 質的研究の学会。機関誌『質的心理学研究』を刊行 |
+| 社会調査協会 | [https://jasr.or.jp/](https://jasr.or.jp/) | 量的社会調査を中心とした学会。倫理規定・公開論文が参照できる |
 
 ---
 

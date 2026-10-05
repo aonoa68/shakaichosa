@@ -158,24 +158,24 @@
 
 | 機関・サービス名 | URL | 内容 |
 |------------------|-----|------|
-| 日本社会学会倫理綱領 | https://jss-sociology.org/about/ethics/ | 社会学研究における倫理基準（全文無料公開） |
-| 文部科学省・厚労省「人を対象とする生命科学・医学系研究に関する倫理指針」 | https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kenkyujigyou/i-kenkyu/ | 医学系研究倫理の指針（社会調査も参照） |
-| 米国HHS Office for Human Research Protections | https://www.hhs.gov/ohrp/ | ベルモント・レポート原文・IRBガイドライン（英語） |
+| 日本社会学会倫理綱領 | [https://jss-sociology.org/about/ethics/](https://jss-sociology.org/about/ethics/) | 社会学研究における倫理基準（全文無料公開） |
+| 文部科学省・厚労省「人を対象とする生命科学・医学系研究に関する倫理指針」 | [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kenkyujigyou/i-kenkyu/](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kenkyujigyou/i-kenkyu/) | 医学系研究倫理の指針（社会調査も参照） |
+| 米国HHS Office for Human Research Protections | [https://www.hhs.gov/ohrp/](https://www.hhs.gov/ohrp/) | ベルモント・レポート原文・IRBガイドライン（英語） |
 
 ##### 統計・データ関連
 
 | サービス名 | URL | 内容 |
 |------------|-----|------|
-| e-Stat（政府統計の総合窓口） | https://www.e-stat.go.jp/ | 政府統計の二次利用・オープンデータ |
-| J-STAGE | https://www.jstage.jst.go.jp/ | 国内学術論文の無料検索・閲覧 |
-| SSJデータアーカイブ（SSJDA） | https://csrda.iss.u-tokyo.ac.jp/ssjda/ | 社会調査データの二次利用（倫理審査済みデータの提供） |
+| e-Stat（政府統計の総合窓口） | [https://www.e-stat.go.jp/](https://www.e-stat.go.jp/) | 政府統計の二次利用・オープンデータ |
+| J-STAGE | [https://www.jstage.jst.go.jp/](https://www.jstage.jst.go.jp/) | 国内学術論文の無料検索・閲覧 |
+| SSJデータアーカイブ（SSJDA） | [https://csrda.iss.u-tokyo.ac.jp/ssjda/](https://csrda.iss.u-tokyo.ac.jp/ssjda/) | 社会調査データの二次利用（倫理審査済みデータの提供） |
 
 ##### 研究倫理教育
 
 | サービス名 | URL | 内容 |
 |------------|-----|------|
-| 国立研究開発法人 科学技術振興機構（JST）研究倫理 | https://www.jst.go.jp/kousei_p/ | 研究不正・倫理に関する教材・ガイドライン |
-| CITI Program（日本語版） | https://about.citiprogram.org/ | IRB・研究倫理のオンライン学習（英語、一部日本語） |
+| 国立研究開発法人 科学技術振興機構（JST）研究倫理 | [https://www.jst.go.jp/kousei_p/](https://www.jst.go.jp/kousei_p/) | 研究不正・倫理に関する教材・ガイドライン |
+| CITI Program（日本語版） | [https://about.citiprogram.org/](https://about.citiprogram.org/) | IRB・研究倫理のオンライン学習（英語、一部日本語） |
 
 ---
 
@@ -187,7 +187,7 @@
 |------|--------|----------|--------|
 | 大谷ほか編 | 2013 | 『新・社会調査へのアプローチ』第4章「標本抽出の論理」 | ミネルヴァ書房 |
 | 轟ほか編 | 2021 | 『入門・社会調査法』第3章「サンプリング」 | 法律文化社 |
-| 総務省統計局 | — | 「標本調査とは」（統計局ウェブサイト内の解説ページ） | https://www.stat.go.jp/ |
+| 総務省統計局 | — | 「標本調査とは」（統計局ウェブサイト内の解説ページ） | [https://www.stat.go.jp/](https://www.stat.go.jp/) |
 
 - 大谷ほか第4章：全数調査と標本調査の違い、無作為抽出の論理を概説。
 - 轟ほか第3章：サンプリングの種類（単純無作為・層化・クラスター）を図解で説明。

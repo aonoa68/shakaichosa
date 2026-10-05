@@ -156,7 +156,7 @@ e-Stat（<https://www.e-stat.go.jp/>）にアクセスし、**自分が関心を
     → 主要指標を地図・グラフ形式でインタラクティブに確認できる。地域間比較や時系列変化の把握に便利。
 
 11. **総務省統計局「国勢調査」公式ページ**
-    URL: https://www.stat.go.jp/data/kokusei/
+    URL: https://www.stat.go.jp/data/kokusei/2020/index.html
     → 調査の概要・調査票の様式・結果の公表スケジュールが確認できる。過去調査との比較資料もある。
 
 12. **内閣府「世論調査」ページ**

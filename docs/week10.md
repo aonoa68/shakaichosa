@@ -288,11 +288,11 @@ Fowler, F. J. (2013).
 
 | 名称 | URL | 概要 |
 |---|---|---|
-| 総務省統計局（国勢調査） | https://www.stat.go.jp/data/kokusei/ | 国勢調査の概要・調査票・結果を公開。全数調査の実例として参照 |
-| 内閣府世論調査 | https://survey.gov-online.go.jp/ | 標本設計・調査方法・結果をすべて公開。課題の参照先として推奨 |
-| e-Stat（政府統計の総合窓口） | https://www.e-stat.go.jp/ | 各省庁の統計調査の概要・調査票・集計結果を横断検索 |
-| ビデオリサーチ（視聴率調査） | https://www.videor.co.jp/ | 民間の標本調査の代表例。約2,700世帯の標本で全国視聴率を推計 |
-| 統計数理研究所「日本人の国民性調査」 | https://www.ism.ac.jp/kokuminsei/ | 1953年から継続している縦断的標本調査の実例。調査設計が公開されている |
+| 総務省統計局（令和2年（2020年）国勢調査） | [https://www.stat.go.jp/data/kokusei/2020/index.html](https://www.stat.go.jp/data/kokusei/2020/index.html) | 国勢調査の概要・調査票・結果を公開。全数調査の実例として参照 |
+| 内閣府世論調査 | [https://survey.gov-online.go.jp/](https://survey.gov-online.go.jp/) | 標本設計・調査方法・結果をすべて公開。課題の参照先として推奨 |
+| e-Stat（政府統計の総合窓口） | [https://www.e-stat.go.jp/](https://www.e-stat.go.jp/) | 各省庁の統計調査の概要・調査票・集計結果を横断検索 |
+| ビデオリサーチ（視聴率調査） | [https://www.videor.co.jp/](https://www.videor.co.jp/) | 民間の標本調査の代表例。約2,700世帯の標本で全国視聴率を推計 |
+| 統計数理研究所「日本人の国民性調査」 | [https://www.ism.ac.jp/kokuminsei/](https://www.ism.ac.jp/kokuminsei/) | 1953年から継続している縦断的標本調査の実例。調査設計が公開されている |
 
 ---
 
