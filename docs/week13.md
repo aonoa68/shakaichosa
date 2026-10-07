@@ -214,11 +214,11 @@ Laud Humphreys『公衆便所での出会い』（1970）は、同性愛者の�
 #### 5. ウェブリソース
 
 **日本社会学会「倫理綱領」**
-https://jss-sociology.org/about/ethicscode/
+https://jss-sociology.org/about/ethicalcodes/
 > 社会調査を実施する際の倫理的指針。観察調査の倫理的問題を考えるための基本文書。
 
-**日本社会調査協会「倫理規程」**
-https://jasr.or.jp/about/ethics/
+**社会調査協会「倫理規程」**
+https://jasr.or.jp/chairman/ethics/
 > 調査倫理の実践的ガイドライン。フィールドへのアクセス・インフォームドコンセント等についての規定を含む。
 
 **American Sociological Association "Code of Ethics"（英語）**

@@ -209,8 +209,9 @@
 
 #### ウェブリソース
 
-**日本社会学会「研究倫理規程」**
-https://jss-sociology.org/about/ethics/
+**日本社会学会「倫理綱領」および「研究指針」**
+https://jss-sociology.org/about/ethicalcodes/
+https://jss-sociology.org/about/researchpolicy/
 
 > 社会学的調査研究における倫理基準が明示されている。インタビュー調査の設計段階で必ず参照すること。プライバシーの保護・インフォームドコンセント・データ管理に関する条項が重要。
 
