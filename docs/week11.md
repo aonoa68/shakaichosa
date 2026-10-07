@@ -267,7 +267,7 @@ https://www.nhk.or.jp/bunken/research/yoron/
 ---
 
 **Qualtrics「Survey Design Tips」（英語）**
-https://www.qualtrics.com/blog/survey-design/
+https://www.qualtrics.com/experience-management/research/survey-design/
 
 > 質問設計のベストプラクティスを実務的な視点でまとめたブログ記事。ビジュアルが豊富でわかりやすく、補足的な参照として活用できる。
 

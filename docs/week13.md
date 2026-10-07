@@ -194,7 +194,7 @@ Laud Humphreys『公衆便所での出会い』（1970）は、同性愛者の�
 **日本社会学会（2006）**
 「社会学評論スタイルガイド・倫理綱領」日本社会学会
 > 日本の社会学研究における倫理規程。観察調査・フィールドワークにおけるインフォームドコンセントの考え方が示されている。
-> URL: https://jss-sociology.org/about/ethicscode/
+> URL: https://jss-sociology.org/about/ethicalcodes/
 
 ---
 
@@ -222,7 +222,7 @@ https://jasr.or.jp/chairman/ethics/
 > 調査倫理の実践的ガイドライン。フィールドへのアクセス・インフォームドコンセント等についての規定を含む。
 
 **American Sociological Association "Code of Ethics"（英語）**
-https://www.asanet.org/ethics/
+https://www.asanet.org/about/ethics/
 > アメリカ社会学会の倫理綱領。観察研究・フィールドワークの国際的な倫理基準を参照するために有用。
 
 **方法論ノート：Emerson et al. (1995) の解説記事（英語）**

@@ -199,7 +199,7 @@ https://infact.press/
 > 日本のファクトチェック専門メディア。政治家・行政・メディアの発言・報道を検証した記事を掲載。信頼性評価・クロスチェックの実例を学ぶのに適している。
 
 **Japan Fact-check Center（JFC）**
-https://factcheck.jfcenter.org/
+https://factcheckcenter.jp/
 > 2022年設立のファクトチェック機関。SNS 上で拡散した情報の真偽を検証した記事を掲載。フェイクニュース対策の授業での具体的事例として活用できる。
 
 **厚生労働省「厚生労働白書」**
@@ -207,7 +207,7 @@ https://www.mhlw.go.jp/toukei_hakusho/hakusho/
 > 少子高齢化・社会保障・労働問題・健康を扱う年次報告書。社会学・社会福祉学系のテーマでは最もよく参照される行政資料のひとつ。バックナンバーも PDF で全文公開されている。
 
 **内閣府「子ども・若者白書」**
-https://www8.cao.go.jp/youth/whitepaper/
+https://www.cfa.go.jp/resources/white-paper
 > 若者の生活実態・就労・教育・非行・引きこもり等について毎年調査・報告。大学生の研究テーマと関わりやすいデータが豊富。
 
 ---

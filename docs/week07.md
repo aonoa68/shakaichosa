@@ -178,7 +178,7 @@ https://scholar.google.com/
 > Google が提供する学術文献横断検索エンジン。英語文献を中心に国内外の論文・書籍・報告書を幅広く検索できる。信頼性の判断は利用者に委ねられるため、補助ツールとして位置づける。
 
 **北星学園大学図書館（OPAC・ILL 申請）**
-https://www.hokusei.ac.jp/library/
+https://www.hokusei.ac.jp/activity/library/
 > 北星学園大学図書館の公式サイト。OPAC による蔵書検索・ILL（図書館間相互貸借）の申請・データベース一覧等が利用できる。学外からも利用可能なデータベースサービスへのリンクも掲載。
 
 ---

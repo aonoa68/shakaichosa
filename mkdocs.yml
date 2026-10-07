@@ -37,6 +37,7 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - pymdownx.magiclink
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details
