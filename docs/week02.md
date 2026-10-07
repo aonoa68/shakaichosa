@@ -7,7 +7,7 @@
     - [🎬 解説動画を見る（9分）](https://notebook.google.com/notebook/d16c8038-d186-4076-86ea-5a69bdff886f)
     - [📝 課題を提出する（Moodle・第2回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990651)
     - 課題の本文は**このページの末尾**にあります
-    - 📄 スライドPDFは Moodle に掲載します
+    - [📄 スライドPDFをダウンロード（Moodle）](https://moodle.hokusei.ac.jp/mod/resource/view.php?id=1003566)
     - 🔎 **原典・アーカイブへのリンクは、本文中の各事例のすぐ下**にあります
 
 !!! tip "解説動画について"

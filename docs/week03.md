@@ -6,7 +6,7 @@
     - 📊 [スライドを開く](slides/03.html)
     - [📝 課題を提出する（Moodle・第3回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990652)
     - 課題の本文は**このページの末尾**にあります
-    - 📄 スライドPDFは Moodle に掲載します
+    - [📄 スライドPDFをダウンロード（Moodle）](https://moodle.hokusei.ac.jp/mod/resource/view.php?id=1003565)
 
 ---
 
