@@ -7,7 +7,7 @@
     - [🎬 解説動画を見る（8分）](https://notebook.google.com/notebook/836562e2-0ea1-4823-9879-a638f5da5f30)
     - [📝 課題を提出する（Moodle・第1回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990650)
     - 課題の本文は**このページの末尾**にあります
-    - 📄 スライドPDFは Moodle に掲載します
+    - [📄 スライドPDFをダウンロード（Moodle）](https://moodle.hokusei.ac.jp/mod/resource/view.php?id=1003775)
 
 !!! tip "解説動画について"
     このページの内容をもとに、**8分の解説動画**を用意しました（Gemini Notebook で生成）。予習にも復習にも使えます。ページを読む前に見ても、読んだあとの確認に使っても構いません。

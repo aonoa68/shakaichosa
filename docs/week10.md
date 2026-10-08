@@ -6,7 +6,7 @@
     - 📊 [スライドを開く](slides/10.html)
     - [📝 課題を提出する（Moodle・第10回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990659)
     - 課題の本文は**このページの末尾**にあります
-    - 📄 スライドPDFは Moodle に掲載します
+    - [📄 スライドPDFをダウンロード（Moodle）](https://moodle.hokusei.ac.jp/mod/resource/view.php?id=1003783)
 
 !!! tip "考え方をガイドで確かめる"
     この回の考え方は、統計の考え方ガイドの[「標本から全体を知る」](https://aonoa68.github.io/teaching/guide/sampling/)でも解説しています。霊長類のデータを動かしながら確かめられます。
