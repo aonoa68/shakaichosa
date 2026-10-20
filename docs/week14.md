@@ -208,8 +208,7 @@
 
 **Kozinets, R.V. (2010)**
 *Netnography: Doing Ethnographic Research Online*. Sage.
-（邦訳）水野誠監訳（2021）『ネットノグラフィー』碩学舎
-> オンラインコミュニティを対象とするエスノグラフィ「ネットノグラフィー」を体系的に論じた先駆的著作。デジタル社会の調査を学ぶ必読書。
+> オンラインコミュニティを対象とするエスノグラフィ「ネットノグラフィー」を体系的に論じた先駆的著作。デジタル社会の調査を学ぶ必読書。邦訳はないが、同じ著者が加わった Belk, R.W.・Fischer, E.・Kozinets, R.V.『消費者理解のための定性的マーケティング・リサーチ』（碩学舎、2016年）は日本語で読める。
 
 **Ellis, C., Adams, T.E., & Bochner, A.P. (2011)**
 "Autoethnography: An Overview." *Forum: Qualitative Social Research*, 12(1).
@@ -270,8 +269,7 @@ https://us.sagepub.com/en-us/nam/the-sage-handbook-of-qualitative-research/book2
 
 **Creswell, J.W. (2013)**
 *Qualitative Inquiry and Research Design: Choosing Among Five Approaches*, 3rd ed. Sage.
-（邦訳）堀洋道監訳（2021）『質的研究のデザイン——五つのアプローチ』北大路書房
-> ナラティブ・現象学・グラウンデッドセオリー・エスノグラフィ・ケーススタディの5つを体系的に比較。卒業研究・大学院を目指す人の指針になる。
+> ナラティブ・現象学・グラウンデッドセオリー・エスノグラフィ・ケーススタディの5つを体系的に比較。卒業研究・大学院を目指す人の指針になる。本書の邦訳はないが、同じ著者の『質的研究をはじめるための30の基礎スキル』（新曜社、2022年）は日本語で読める。
 
 **Morgan, D.L. (2014)**
 *Integrating Qualitative and Quantitative Methods*. Sage.
