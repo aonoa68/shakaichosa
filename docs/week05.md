@@ -7,6 +7,7 @@
     - [📝 課題を提出する（Moodle・第5回）](https://moodle.hokusei.ac.jp/mod/assign/view.php?id=990654)
     - 課題の本文は**このページの末尾**にあります
     - [📄 スライドPDFをダウンロード（Moodle）](https://moodle.hokusei.ac.jp/mod/resource/view.php?id=1003567)
+    - [🤖 NotebookLMで復習する](https://notebook.google.com/notebook/56bbea96-7073-4939-b9cc-d895a51321ef)（この回の内容をAIに質問できます）
 
 ---
 
